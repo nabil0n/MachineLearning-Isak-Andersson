@@ -12,6 +12,7 @@ ipykernel = "*"
 scikit-learn = "*"
 pyarrow = "*"
 tensorflow = "*"
+islp = "*"
 
 [dev-packages]
 
